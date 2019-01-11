@@ -17,3 +17,21 @@ C:\Users\Bryan\Desktop\proyectos\Punto de ventas\Punto de ventas\obj\Debug\Punto
 C:\Users\Bryan\Desktop\proyectos\Punto de ventas\Punto de ventas\obj\Debug\Punto de ventas.csproj.CoreCompileInputs.cache
 C:\Users\Bryan\Desktop\proyectos\Punto de ventas\Punto de ventas\obj\Debug\Punto de ventas.exe
 C:\Users\Bryan\Desktop\proyectos\Punto de ventas\Punto de ventas\obj\Debug\Punto de ventas.pdb
+C:\Users\Bryan\Desktop\proyectos\Punto-de-Venta\Punto de ventas\bin\Debug\Punto de ventas.exe.config
+C:\Users\Bryan\Desktop\proyectos\Punto-de-Venta\Punto de ventas\bin\Debug\Punto de ventas.exe
+C:\Users\Bryan\Desktop\proyectos\Punto-de-Venta\Punto de ventas\bin\Debug\Punto de ventas.pdb
+C:\Users\Bryan\Desktop\proyectos\Punto-de-Venta\Punto de ventas\bin\Debug\linq2db.dll
+C:\Users\Bryan\Desktop\proyectos\Punto-de-Venta\Punto de ventas\bin\Debug\Npgsql.dll
+C:\Users\Bryan\Desktop\proyectos\Punto-de-Venta\Punto de ventas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Bryan\Desktop\proyectos\Punto-de-Venta\Punto de ventas\bin\Debug\linq2db.pdb
+C:\Users\Bryan\Desktop\proyectos\Punto-de-Venta\Punto de ventas\bin\Debug\linq2db.xml
+C:\Users\Bryan\Desktop\proyectos\Punto-de-Venta\Punto de ventas\bin\Debug\Npgsql.xml
+C:\Users\Bryan\Desktop\proyectos\Punto-de-Venta\Punto de ventas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Bryan\Desktop\proyectos\Punto-de-Venta\Punto de ventas\obj\Debug\Punto de ventas.csprojAssemblyReference.cache
+C:\Users\Bryan\Desktop\proyectos\Punto-de-Venta\Punto de ventas\obj\Debug\Punto_de_ventas.Form1.resources
+C:\Users\Bryan\Desktop\proyectos\Punto-de-Venta\Punto de ventas\obj\Debug\Punto_de_ventas.Properties.Resources.resources
+C:\Users\Bryan\Desktop\proyectos\Punto-de-Venta\Punto de ventas\obj\Debug\Punto de ventas.csproj.GenerateResource.cache
+C:\Users\Bryan\Desktop\proyectos\Punto-de-Venta\Punto de ventas\obj\Debug\Punto de ventas.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Desktop\proyectos\Punto-de-Venta\Punto de ventas\obj\Debug\Punto de ventas.csproj.CopyComplete
+C:\Users\Bryan\Desktop\proyectos\Punto-de-Venta\Punto de ventas\obj\Debug\Punto de ventas.exe
+C:\Users\Bryan\Desktop\proyectos\Punto-de-Venta\Punto de ventas\obj\Debug\Punto de ventas.pdb
