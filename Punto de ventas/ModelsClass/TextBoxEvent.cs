@@ -25,6 +25,7 @@ namespace Punto_de_ventas.ModelsClass
         public void numberDecimalKeyPress(TextBox textBox, KeyPressEventArgs e)
         {
             if (char.IsDigit(e.KeyChar)) { e.Handled = false; }
+            else if (char.IsControl(e.KeyChar)) { e.Handled = false; }
             else if ((e.KeyChar == '.') && (!textBox.Text.Contains("."))) { e.Handled = false; }
             else { e.Handled = true; }
 
